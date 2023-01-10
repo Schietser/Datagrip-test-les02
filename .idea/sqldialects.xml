@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/Les02.sql" dialect="GenericSQL" />
     <file url="file://$USER_HOME$/Desktop/Opleiding SQL/StudentDB_Beers (1).sql" dialect="MySQL" />
     <file url="file://$USER_HOME$/Desktop/Opleiding SQL/StudentDB_Brewers (1).sql" dialect="MySQL" />
     <file url="file://$USER_HOME$/Desktop/Opleiding SQL/StudentDB_Categories (1).sql" dialect="MySQL" />
